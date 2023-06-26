@@ -5,11 +5,9 @@ This repository will serve to store files from modules developed through Trailhe
 - JavaScript Skills for Salesforce Developers ✅ <br>
 Link: https://trailhead.salesforce.com/content/learn/modules/javascript-essentials-salesforce-developers
 
-- Find and Fix Bugs with Apex Replay Debugger ✅ <br>
-Link: https://trailhead.salesforce.com/content/learn/projects/find-and-fix-bugs-with-apex-replay-debugger
-
 - Lightning Web Component Troubleshooting ✅ <br>
 Link: https://trailhead.salesforce.com/content/learn/modules/lwc-troubleshooting
+Date: 6/26/2023
 
 #### In Progress:
 - Lightning Web Components and Salesforce Data ⚠ <br>
